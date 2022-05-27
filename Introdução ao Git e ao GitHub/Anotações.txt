@@ -1,0 +1,10 @@
+Link para download do Git: https://git-scm.com/downloads
+Git Bash é um terminal extendido para uso do Git.
+
+Enviando para o controle de versão / GitHub:
+
+git add . OU git add -A (Para enviar todos os arquivos para o controle de versão local)
+
+git commit -m "Inclusão das Anotações do Curso" (- m para adicionar uma descrição - entre aspas)
+
+git push origin main (enviando todos commits para o github)
